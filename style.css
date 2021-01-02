@@ -5,7 +5,6 @@ body{
     background-size: cover;
     max-width: 100%;
     height: auto;
-    background-repeat: no-repeat; /*haven't save this change */ 
     display: flex;
        }
 
