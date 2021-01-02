@@ -5,7 +5,8 @@ body{
     background-size: contain;
     max-width: 100%;
     height: auto;
-    background-position: center center;
+    background-position: center;
+    background-repeat: no-repeat;
     }
 
 .box{
