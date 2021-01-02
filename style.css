@@ -5,7 +5,8 @@ body{
     background-size: cover;
     max-width: 100%;
     height: auto;
-    background-repeat: repeat;
+    background-repeat: no-repeat; /*haven't save this change */ 
+    display: flex;
        }
 
 .box{
@@ -26,7 +27,7 @@ body{
     width: 300px;
     height: 300px;
     
-}  /* coments in css are different than html */
+}  /* comments in css are different than html */
 .box h1{    
 font-size: 40px;
 letter-spacing: 4px;
