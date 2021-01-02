@@ -2,9 +2,10 @@ body{
     margin: 0;
     padding: 0;
     background: url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?cs=srgb&dl=pexels-guillaume-meurice-1591447.jpg&fm=jpg) no-repeat;
-    background-size: cover;
+    background-size: contain;
     max-width: 100%;
     height: auto;
+    background-position: center center;
     }
 
 .box{
