@@ -2,15 +2,13 @@ body{
     margin: 0;
     padding: 0;
     background: url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?cs=srgb&dl=pexels-guillaume-meurice-1591447.jpg&fm=jpg) no-repeat;
-    background-size: contain;
+    background-size: cover;
     max-width: 100%;
     height: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-    }
+       }
 
 .box{
-    width: 450px;
+    max-width: 100%;
     background: rgba(0, 0, 0, 0.726);
     padding: 40px;
     text-align: center;
