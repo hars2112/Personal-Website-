@@ -1,15 +1,15 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?cs=srgb&dl=pexels-guillaume-meurice-1591447.jpg&fm=jpg) no-repeat;
+    background: url(https://images3.alphacoders.com/669/669177.png) no-repeat;
     background-size: cover;
     max-width: 100%;
     height: auto;
-    display: flex;
-       }
+     }
 
 .box{
     width: 450px;
+    height: 100%;
     background: rgba(0, 0, 0, 0.726);
     padding: 40px;
     text-align: center;
